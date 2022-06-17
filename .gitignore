@@ -10,6 +10,9 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 /[Rr]ecordings/
+/[Uu]ser[Ss]ettings/
+/[Pp]roject[Ss]ettings/
+/[Pp]ackages/
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -61,5 +64,6 @@ crashlytics-build.properties
 
 # Assets Packs
 /[Aa]ssets/Asset\ Packs/
+/[Aa]ssets/TextMesh\ Pro/
 
 
